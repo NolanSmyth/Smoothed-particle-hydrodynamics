@@ -6,8 +6,10 @@ A smoothed particle hydrodynamics simulation for two scenarios:
 ## Demos
 
 A sheet of water being dropped into a bucket
+
 ![BucketGif](demos/demoBucket.gif)
 
 
 Water flowing past a solid object
+
 ![floGif](demos/demoFlow.gif)
